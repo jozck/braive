@@ -10,8 +10,8 @@ github.com/ilya1st/rotatewriter v0.0.0-20171126183947-3df0c1a3ed6d h1:OGuVAVny/9
 github.com/ilya1st/rotatewriter v0.0.0-20171126183947-3df0c1a3ed6d/go.mod h1:S1q6q+21PRGd0WRX+fHjQ+TOe3CgpSv7zgCWnZcbxCs=
 github.com/josephspurrier/goversioninfo v1.4.0 h1:Puhl12NSHUSALHSuzYwPYQkqa2E1+7SrtAPJorKK0C8=
 github.com/josephspurrier/goversioninfo v1.4.0/go.mod h1:JWzv5rKQr+MmW+LvM412ToT/IkYDZjaclF2pKDss8IY=
-github.com/jozck/kernal v1.56.15 h1:9qbX+SY/5BfVW/mXPO8xgEAmo7Z0M95sA7SarAcXtsc=
-github.com/jozck/kernal v1.56.15/go.mod h1:jFw3t46GhfQM9e7OGLQcL8sbxOp2+A8KR5++5z2tFKE=
+github.com/jozck/kernal v1.56.16 h1:B4wrz1v4QwxuHvvE3td6SdlpB6hoKaPjWvHv5XmvG24=
+github.com/jozck/kernal v1.56.16/go.mod h1:jFw3t46GhfQM9e7OGLQcL8sbxOp2+A8KR5++5z2tFKE=
 github.com/kevinburke/go-bindata v3.24.0+incompatible h1:qajFA3D0pH94OTLU4zcCCKCDgR+Zr2cZK/RPJHDdFoY=
 github.com/kevinburke/go-bindata v3.24.0+incompatible/go.mod h1:/pEEZ72flUW2p0yi30bslSp9YqD9pysLxunQDdb2CPM=
 github.com/mattn/go-colorable v0.1.12 h1:jF+Du6AlPIjs2BiUiQlKOX0rt3SujHxPnksPKZbaA40=
